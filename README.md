@@ -8,7 +8,7 @@ A simple Android app built in Java to scan QR codes using ZXing library.
 - Easy UI
 
 ## 📸 Screenshot
-<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/a7cfb259-d7a7-40af-aa91-9a7fe61b1643" />
+<img width="300" height="500" alt="image" src="https://github.com/user-attachments/assets/a7cfb259-d7a7-40af-aa91-9a7fe61b1643" />
 
 
 ## 🚀 How to Run
