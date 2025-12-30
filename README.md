@@ -1,11 +1,15 @@
 # QR Scanner App (Android)
 
-A simple Android app built in Java to scan QR codes using ZXing library.
+A complete Android application built in **Java** that allows users to **scan existing QR codes** and **generate new ones** instantly.  
+Designed for simplicity and fast performance using the **ZXing barcode scanning library**.
+
 
 ## ✨ Features
 - Scan any QR code
 - Shows scanned text and links
 - Easy UI
+
+
 
 ## 📸 Screenshot
 <img width="190" height="400" alt="image" src="https://github.com/user-attachments/assets/291c619a-b0c9-4206-a298-9d92447e88ec" />
@@ -24,3 +28,4 @@ A simple Android app built in Java to scan QR codes using ZXing library.
 - Android Studio
 - ZXing Library
 
+### Made with ☕ + 💻 in Java
