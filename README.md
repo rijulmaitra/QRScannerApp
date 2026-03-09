@@ -28,4 +28,4 @@ Designed for simplicity and fast performance using the **ZXing barcode scanning 
 - Android Studio
 - ZXing Library
 
-### Made with ☕ + 💻 in Java
+### Made with in Java
